@@ -1,0 +1,1 @@
+XE minishop is a escrow,shop module for XpressEngine.
